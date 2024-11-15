@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "armoa-linkPlugin",
   "pluginType": "platform",
   "singular": true,
   "strictValidation": false,

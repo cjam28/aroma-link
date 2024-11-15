@@ -1,19 +1,19 @@
 {
-  "name": "homebridge-plugin-name",
-  "displayName": "Plugin Name",
+  "name": "aroma-link",
+  "displayName": "aroma-link",
   "type": "module",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "A short description about what your plugin does.",
   "author": "Your Name",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/USERNAME/GITHUB_PROJECT_NAME#readme",
+  "homepage": "https://github.com/cjam28/aroma-link/blob/latest/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/cjam28/aroma-link"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/cjam28/aroma-link/issues"
   },
   "keywords": [
     "homebridge-plugin"
